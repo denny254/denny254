@@ -3,7 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=denny254&label=Profile%20views&color=0e75b6&style=flat" alt="denny254" /> </p>
 
-- 🌱 I’m currently learning **ReactJs, DevOps**
+- 🌱 I’m currently working on  **TakeIn, The Flutter Way**
+- 
+- 🌱 I’m currently learning **Flutter, DevOps**
 
 - 👯 I’m looking to collaborate on **open source projects**
 
@@ -15,7 +17,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1byloAjZvFWQ51i_1W1ua2MMm51fD-gHi/view](https://drive.google.com/file/d/1byloAjZvFWQ51i_1W1ua2MMm51fD-gHi/view)
 
-- ⚡ Fun fact **Writing codes**
+- ⚡ Fun fact **Playing football and  Riding a bike**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
