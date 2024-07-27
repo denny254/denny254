@@ -4,7 +4,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=denny254&label=Profile%20views&color=0e75b6&style=flat" alt="denny254" /> </p>
 
 - 🌱 I’m currently working on  **TakeIn, The Flutter Way**
-- 
 - 🌱 I’m currently learning **Flutter, DevOps**
 
 - 👯 I’m looking to collaborate on **open source projects**
