@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **denniskinanga6@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1byloAjZvFWQ51i_1W1ua2MMm51fD-gHi/view](https://drive.google.com/file/d/1byloAjZvFWQ51i_1W1ua2MMm51fD-gHi/view)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1byloAjZvFWQ51i_1W1ua2MMm51fD-gHi/view](https://drive.google.com/file/d/1lES0TqttufzuhVbAKJMOwJnWqnRbsPnp/view?usp=sharing)
 
 - ⚡ Fun fact **Playing football and  Riding a bike**
 
