@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kinanga Dennis</h1>
-<h3 align="center">A passionate self-taught programmer and DevOps developer from kenya</h3>
+<h3 align="center" style="font-weight: bold;"> **A passionate self-taught programmer and DevOps developer from Kenya** </h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=denny254&label=Profile%20views&color=0e75b6&style=flat" alt="denny254" /> </p>
 
